@@ -250,7 +250,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
 	padding: 100px 0;
-	background: #333;
+	background: #e5e5e5;
 }
 #contact .contact-item p {
 	font-size: 15px;
@@ -274,7 +274,7 @@ header .intro-text {
 #contact h3::after {
 	position: absolute;
 	content: "";
-	background: #d43031;
+	background: #e5e5e5;
 	height: 2px;
 	width: 40px;
 	bottom: 0;
